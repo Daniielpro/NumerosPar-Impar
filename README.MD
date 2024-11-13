@@ -11,8 +11,8 @@ This project is a Go application that allows to know if a number entered in the 
 To install the project, follow these steps:
 
 1. Clone the repository:
-````bash
-git clone https://github.com/Daniielpro/NumerosPar-Impar.git
+   ````bash
+     git clone https://github.com/Daniielpro/NumerosPar-Impar.git
 
 ## Local Execution
 To run the project locally, follow these steps:
