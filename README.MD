@@ -1,35 +1,39 @@
-# NUMEROS PARES E IMPARES
+# ODD AND EVEN NUMBERS
 
-## Descripción
-Este proyecto es una aplicación Go que permite conocer si un numero ingresado en el formulario es par o impar.. 
+## Description
+This project is a Go application that allows to know if a number entered in the form is odd or even... 
 
 ## Prerequisites
-- Go 1.23.3 o superior
-- Docker (opcional, si deseas ejecutar el proyecto en un contenedor)
+- Go 1.23.3 or higher
+- Docker (optional, if you want to run the project in a container)
 
-## Instalación
-Para instalar el proyecto, sigue estos pasos:
+## Installation
+To install the project, follow these steps:
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/Daniielpro/NumerosPar-Impar.git
+1. Clone the repository:
+````bash
+git clone https://github.com/Daniielpro/NumerosPar-Impar.git
 
-## Ejecucion Local
-Para Eejcutar localmetne el proyecto, sigue estos pasos:
+## Local Execution
+To run the project locally, follow these steps:
 
-1. Abrir terminal desde la carpeta raiz del proyecto
-2. Eejcuta el siguietne comando
-   ```bash
+1. Open terminal from the root folder of the project.
+
+2. Issue the following command
+   ````bash
    go run main.go
-3. Abrir el terminal: http://localhost:8084/
 
-## Ejecucion Dcoker
-Para Eejcutar lmediante Docker el proyecto, sigue estos pasos:
+3. Open the terminal: http://localhost:8084/
 
-1. Abrir terminal desde la carpeta raiz del proyecto
-2. Eejcuta el siguietne comando
-   ```bash
-   docker build -t username/appname .
-3. Eejcuta el siguietne comando
-   ```bash
-   docker run -d -p 8084:8084 username/nameapp
+## Running Dcoker
+To run the project using Docker, follow these steps:
+
+1. Open terminal from the root folder of the project.
+
+2. Issue the following command
+   ````bash
+     docker build -t username/appname .
+
+3. Issue the following command
+   ````bash
+    docker run -d -p 8084:8084 username/nameapp
