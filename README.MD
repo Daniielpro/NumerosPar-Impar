@@ -1,7 +1,7 @@
-# Project Title
+# NUMEROS PARES E IMPARES
 
 ## Descripción
-Este proyecto es una aplicación Go que permite [breve descripción de la funcionalidad del proyecto]. Su propósito es [explicar el propósito del proyecto].
+Este proyecto es una aplicación Go que permite conocer si un numero ingresado en el formulario es par o impar.. 
 
 ## Prerequisites
 - Go 1.23.3 o superior
@@ -12,7 +12,7 @@ Para instalar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/Daniielpro/NumerosPar-Impar.git
 
 ## Ejecucion Local
 Para Eejcutar localmetne el proyecto, sigue estos pasos:
